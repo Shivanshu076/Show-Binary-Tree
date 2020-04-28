@@ -316,6 +316,8 @@ int main(){                                        // The main function.
     //t.par(47);
 }
 
+// Some example test cases :
+
 // 1 2 3 4 5 6 7 -1 -1 -1 -1 -1 -1 -1
 
 // 1 2 3 4 -1 -1 5 6 -1 7 8 -1 -1 -1 -1 -1

@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-int ndig(int n){
+int ndig(int n){                        // Function to find the number of digits in a number.
     int ans=0;
     while(n){
         n/=10;
@@ -12,7 +12,7 @@ int ndig(int n){
     return ans;
 }
 
-class node{                              // Data type of a Binary Tree's node.
+class node{                              // Data type of the Binary Tree's node.
     
     int data;
     node* left;
